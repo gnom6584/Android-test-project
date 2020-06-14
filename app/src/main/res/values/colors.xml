@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#2F2F2F</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="colorActionBarText">#FFFFFF</color>
+    <color name="colorDragDropButtonBase">#66808080</color>
+    <color name="colorCancelCrossButton">#000000</color>
+    <color name="colorBuyButton">#00FF00</color>
+    <color name="colorLikeButton">#FF0000</color>
+    <color name="colorPrimaryText">#FFFFFF</color>
+</resources>

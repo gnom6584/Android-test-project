@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PET FINDER</string>
+    <string name="selectThePet">Выберите себе питомца!</string>
+    <string name="NoPets">Похоже сейчас нет питомцев!</string>
+    <string name="start">Start</string>
+    <string name="privacy_policy">PRIVACY POLICY</string>
+    <string name="noInternetConnection">No internet connection!</string>
+    <string name="applicationWillBeTerminated">Application will be terminated</string>
+</resources>
